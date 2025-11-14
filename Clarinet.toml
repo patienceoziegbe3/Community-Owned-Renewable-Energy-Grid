@@ -29,6 +29,11 @@ epoch = 3.1
 path = 'contracts/grid-governance.clar'
 clarity_version = 3
 epoch = 3.1
+
+[contracts.grid-carbon-credits]
+path = 'contracts/grid-carbon-credits.clar'
+clarity_version = 3
+epoch = 3.1
 [repl.analysis]
 passes = ['check_checker']
 
